@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PretzelShop\PretzelShop\bin\Debug\PretzelShop.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PretzelShop\PretzelShop\bin\Debug\PretzelShop.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PretzelShop\PretzelShop\bin\Debug\PretzelShop.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PretzelShop\PretzelShop\obj\Debug\PretzelShop.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PretzelShop\PretzelShop\obj\Debug\PretzelShop.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PretzelShop\PretzelShop\obj\Debug\PretzelShop.pdb
